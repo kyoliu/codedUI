@@ -1,0 +1,6 @@
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csproj.CoreCompileInputs.cache
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.csv

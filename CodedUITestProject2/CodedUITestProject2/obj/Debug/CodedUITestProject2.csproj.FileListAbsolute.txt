@@ -4,3 +4,4 @@ c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\Cod
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.csv
+c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.xml

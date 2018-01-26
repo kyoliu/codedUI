@@ -5,3 +5,11 @@ c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\Cod
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.csv
 c:\users\sdet\source\repos\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.xml
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.xml
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\bin\Debug\data.csv
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csprojResolveAssemblyReference.cache
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csproj.CoreCompileInputs.cache
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+C:\CodedUi\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb

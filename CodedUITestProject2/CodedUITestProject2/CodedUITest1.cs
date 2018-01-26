@@ -30,7 +30,7 @@ namespace CodedUITestProject2
         public void CodedUITestMethod1()
         {
             // To generate code for this test, select "Generate Code for Coded UI Test" from the shortcut menu and select one of the menu items.
-            this.UIMap.RecordedMethod1();
+            //this.UIMap.RecordedMethod1();
             //csv方法
             /*Console.WriteLine(TestContext.DataRow["language"].ToString());
             byte[] bytes = Encoding.Default.GetBytes(TestContext.DataRow["text"].ToString());
@@ -39,7 +39,8 @@ namespace CodedUITestProject2
             //XMl方法 如果寫兩組整個流程會跑兩次...
             //Console.WriteLine(TestContext.DataRow["language"].ToString());
             //this.UIMap.AssertMethod1();
-
+            CustomCaller a= new CustomCaller();
+            a.Buttomclick();
         }
 
         #region Additional test attributes
